@@ -13,7 +13,7 @@ protocol: Kaseikyo
 address: 41 54 32 00
 command: D3 02 00 00
 # 
-name: Media Player
+namea: Media Player
 type: parsed
 protocol: Kaseikyo
 address: 41 54 32 00
